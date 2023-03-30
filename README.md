@@ -18,7 +18,7 @@ We will be using Apollo Server, Apollo client libraries to handle data fetching 
 11. Nexus ( Adding typedefs to Graph QL)
 12. Prisma ( ORM to work with Postgres Database like - modelling, migration,generate SQL query)
 13. Stripe ( payment integration)
-14. Apache KAFKA
+14. Apache KAFKA - Messaging handling.
 
 ### Run commands to get started
 
