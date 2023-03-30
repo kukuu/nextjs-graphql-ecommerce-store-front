@@ -1,6 +1,6 @@
 ### Docs
 
-This is an Ecommerce store front templated in NextJS Framework and GraphQL.
+This is an E-commerce store front templated in NextJS Framework and GraphQL.
 We will be using Apollo Server, Apollo client libraries to handle data fetching and dockerize it.
 
 ### Library Used
